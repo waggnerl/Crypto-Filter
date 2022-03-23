@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Filter/static/css/main.d6e6650c.css",
+    "main.js": "/Crypto-Filter/static/js/main.affbb04c.js",
+    "index.html": "/Crypto-Filter/index.html",
+    "main.d6e6650c.css.map": "/Crypto-Filter/static/css/main.d6e6650c.css.map",
+    "main.affbb04c.js.map": "/Crypto-Filter/static/js/main.affbb04c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e6650c.css",
+    "static/js/main.affbb04c.js"
+  ]
+}
